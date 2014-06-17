@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/AMapKit/!svn/ver/711/MAMapSDK/trunk/Release_library/v2.0.6.1/2D/Headers
+END
+MAPinAnnotationView.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/AMapKit/!svn/ver/711/MAMapSDK/trunk/Release_library/v2.0.6.1/2D/Headers/MAPinAnnotationView.h
+END
+MAOverlayView.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/AMapKit/!svn/ver/711/MAMapSDK/trunk/Release_library/v2.0.6.1/2D/Headers/MAOverlayView.h
+END
+MAOverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/AMapKit/!svn/ver/711/MAMapSDK/trunk/Release_library/v2.0.6.1/2D/Headers/MAOverlay.h
+END
+MAPolygonView.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/AMapKit/!svn/ver/711/MAMapSDK/trunk/Release_library/v2.0.6.1/2D/Headers/MAPolygonView.h
+END
+MAPointAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/AMapKit/!svn/ver/711/MAMapSDK/trunk/Release_library/v2.0.6.1/2D/Headers/MAPointAnnotation.h
+END
+MAMapKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/AMapKit/!svn/ver/711/MAMapSDK/trunk/Release_library/v2.0.6.1/2D/Headers/MAMapKit.h
+END
+MAPolylineView.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/AMapKit/!svn/ver/711/MAMapSDK/trunk/Release_library/v2.0.6.1/2D/Headers/MAPolylineView.h
+END
+MAPolygon.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/AMapKit/!svn/ver/711/MAMapSDK/trunk/Release_library/v2.0.6.1/2D/Headers/MAPolygon.h
+END
+MAOverlayPathView.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/AMapKit/!svn/ver/711/MAMapSDK/trunk/Release_library/v2.0.6.1/2D/Headers/MAOverlayPathView.h
+END
+MAPolyline.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/AMapKit/!svn/ver/711/MAMapSDK/trunk/Release_library/v2.0.6.1/2D/Headers/MAPolyline.h
+END
+MAGeometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/AMapKit/!svn/ver/711/MAMapSDK/trunk/Release_library/v2.0.6.1/2D/Headers/MAGeometry.h
+END
+MACircleView.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/AMapKit/!svn/ver/711/MAMapSDK/trunk/Release_library/v2.0.6.1/2D/Headers/MACircleView.h
+END
+MAShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/AMapKit/!svn/ver/711/MAMapSDK/trunk/Release_library/v2.0.6.1/2D/Headers/MAShape.h
+END
+MACircle.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/AMapKit/!svn/ver/711/MAMapSDK/trunk/Release_library/v2.0.6.1/2D/Headers/MACircle.h
+END
+MAMultiPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/AMapKit/!svn/ver/711/MAMapSDK/trunk/Release_library/v2.0.6.1/2D/Headers/MAMultiPoint.h
+END
+MATypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/AMapKit/!svn/ver/711/MAMapSDK/trunk/Release_library/v2.0.6.1/2D/Headers/MATypes.h
+END
+MAAnnotationView.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/AMapKit/!svn/ver/711/MAMapSDK/trunk/Release_library/v2.0.6.1/2D/Headers/MAAnnotationView.h
+END
+MAUserLocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/AMapKit/!svn/ver/711/MAMapSDK/trunk/Release_library/v2.0.6.1/2D/Headers/MAUserLocation.h
+END
+MAMapView.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/AMapKit/!svn/ver/711/MAMapSDK/trunk/Release_library/v2.0.6.1/2D/Headers/MAMapView.h
+END
+MAAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/AMapKit/!svn/ver/711/MAMapSDK/trunk/Release_library/v2.0.6.1/2D/Headers/MAAnnotation.h
+END
